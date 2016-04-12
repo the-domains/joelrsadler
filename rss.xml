@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[joelrsadler]]></title>
+        <description><![CDATA[joelrsadler]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 19:24:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Don't Know My Life]]></title>
+            <description><![CDATA[<article><h1>You Don't Know My Life</h1><p>With the advent of programmatic media buying in display advertising, specifically RTB, the prospect of being able to deliver the perfect creative for each and every individual to whom you serve an impression became an imaginable possibility. Merle described this possibility as “addressability at scale” in the very useful but blandly-titled book, “Rise of the Platform Marketer.” You have probably come to use the term “personalization” to refer to this possibility.</p></article>]]></description>
+            <link>undefinedwith-the-advent-of-programmatic-media-buying-in-display-adve/index.html</link>
+            <guid isPermaLink="false">a643c57c-8591-4207-a741-7adefe8ab7e7</guid>
+            <pubDate>Tue, 12 Apr 2016 19:24:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
